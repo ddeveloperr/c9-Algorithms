@@ -16,4 +16,9 @@ function bubbleSort(arr){
    return arr;
 }
 
-bubbleSort([12,34,45,2,3,54])
+bubbleSort([12,34,45,2,3,54,45,6,7,87])
+
+  //Best case for time complexity is O(n)
+  //Average Time Complexity is O(n^2)
+  //Worst Time Complexity is O(n^2)
+  //Space complexity is O(1)

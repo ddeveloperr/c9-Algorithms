@@ -20,3 +20,8 @@ function selectionSort(arr){
 }
   
   selectionSort([34,10,23,45,67,5])
+  
+  // Best case for time complexity is O(n^2)
+  //Average Time Complexity is O(n^2)
+  //Worst Time Complexity is O(n^2)
+  //Space complexity is O(1)
